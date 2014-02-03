@@ -1,0 +1,24 @@
+E:\Programas\Windows\Cuadernos Alvores\Cuadernos Alvores\bin\x86\Debug\Cuadernos Alvores.exe.config
+E:\Programas\Windows\Cuadernos Alvores\Cuadernos Alvores\bin\x86\Debug\Cuadernos Alvores.exe
+E:\Programas\Windows\Cuadernos Alvores\Cuadernos Alvores\bin\x86\Debug\Cuadernos Alvores.pdb
+E:\Programas\Windows\Cuadernos Alvores\Cuadernos Alvores\bin\x86\Debug\MySql.Data.dll
+E:\Programas\Windows\Cuadernos Alvores\Cuadernos Alvores\bin\x86\Debug\MySql.Data.Entity.dll
+E:\Programas\Windows\Cuadernos Alvores\Cuadernos Alvores\obj\x86\Debug\Cuadernos_Alvores.Form1.resources
+E:\Programas\Windows\Cuadernos Alvores\Cuadernos Alvores\obj\x86\Debug\Cuadernos_Alvores.Properties.Resources.resources
+E:\Programas\Windows\Cuadernos Alvores\Cuadernos Alvores\obj\x86\Debug\Cuadernos Alvores.csproj.GenerateResource.Cache
+E:\Programas\Windows\Cuadernos Alvores\Cuadernos Alvores\obj\x86\Debug\Cuadernos Alvores.exe
+E:\Programas\Windows\Cuadernos Alvores\Cuadernos Alvores\obj\x86\Debug\Cuadernos Alvores.pdb
+E:\Programas\Windows\Cuadernos Alvores\Cuadernos Alvores\obj\x86\Debug\Cuadernos Alvores.csprojResolveAssemblyReference.cache
+E:\Programas\Windows\Cuadernos Alvores\Cuadernos Alvores\bin\x86\Debug\MySql.Web.dll
+E:\Programas\github\CSHARP\Cuadernos 19 y 34\Cuadernos Alvores\bin\x86\Debug\Cuadernos 19 y 34.exe.config
+E:\Programas\github\CSHARP\Cuadernos 19 y 34\Cuadernos Alvores\obj\x86\Debug\Cuadernos Alvores.csprojResolveAssemblyReference.cache
+E:\Programas\github\CSHARP\Cuadernos 19 y 34\Cuadernos Alvores\obj\x86\Debug\Cuadernos_Alvores.Form1.resources
+E:\Programas\github\CSHARP\Cuadernos 19 y 34\Cuadernos Alvores\obj\x86\Debug\Cuadernos_1934.Properties.Resources.resources
+E:\Programas\github\CSHARP\Cuadernos 19 y 34\Cuadernos Alvores\obj\x86\Debug\Cuadernos Alvores.csproj.GenerateResource.Cache
+E:\Programas\github\CSHARP\Cuadernos 19 y 34\Cuadernos Alvores\bin\x86\Debug\Cuadernos 19 y 34.exe
+E:\Programas\github\CSHARP\Cuadernos 19 y 34\Cuadernos Alvores\bin\x86\Debug\Cuadernos 19 y 34.pdb
+E:\Programas\github\CSHARP\Cuadernos 19 y 34\Cuadernos Alvores\bin\x86\Debug\MySql.Data.dll
+E:\Programas\github\CSHARP\Cuadernos 19 y 34\Cuadernos Alvores\bin\x86\Debug\MySql.Data.Entity.dll
+E:\Programas\github\CSHARP\Cuadernos 19 y 34\Cuadernos Alvores\bin\x86\Debug\MySql.Web.dll
+E:\Programas\github\CSHARP\Cuadernos 19 y 34\Cuadernos Alvores\obj\x86\Debug\Cuadernos 19 y 34.exe
+E:\Programas\github\CSHARP\Cuadernos 19 y 34\Cuadernos Alvores\obj\x86\Debug\Cuadernos 19 y 34.pdb

@@ -1,0 +1,12 @@
+E:\Programas\github\CSHARP\Cuadernos 19 y 34\Cuadernos 19 y 34\bin\Debug\Cuadernos 19 y 34.exe.config
+E:\Programas\github\CSHARP\Cuadernos 19 y 34\Cuadernos 19 y 34\bin\Debug\Cuadernos 19 y 34.exe
+E:\Programas\github\CSHARP\Cuadernos 19 y 34\Cuadernos 19 y 34\bin\Debug\Cuadernos 19 y 34.pdb
+E:\Programas\github\CSHARP\Cuadernos 19 y 34\Cuadernos 19 y 34\obj\Debug\Cuadernos 19 y 34.csprojResolveAssemblyReference.cache
+E:\Programas\github\CSHARP\Cuadernos 19 y 34\Cuadernos 19 y 34\obj\Debug\Cuadernos_Alvores.Form1.resources
+E:\Programas\github\CSHARP\Cuadernos 19 y 34\Cuadernos 19 y 34\obj\Debug\Cuadernos_1934.Properties.Resources.resources
+E:\Programas\github\CSHARP\Cuadernos 19 y 34\Cuadernos 19 y 34\obj\Debug\Cuadernos 19 y 34.csproj.GenerateResource.Cache
+E:\Programas\github\CSHARP\Cuadernos 19 y 34\Cuadernos 19 y 34\obj\Debug\Cuadernos 19 y 34.exe
+E:\Programas\github\CSHARP\Cuadernos 19 y 34\Cuadernos 19 y 34\obj\Debug\Cuadernos 19 y 34.pdb
+E:\Programas\github\ConversorCuadernos19y34\Cuadernos 19 y 34\bin\Debug\Cuadernos 19 y 34.exe.config
+E:\Programas\github\ConversorCuadernos19y34\Cuadernos 19 y 34\obj\Debug\Cuadernos 19 y 34.exe
+E:\Programas\github\ConversorCuadernos19y34\Cuadernos 19 y 34\obj\Debug\Cuadernos 19 y 34.pdb

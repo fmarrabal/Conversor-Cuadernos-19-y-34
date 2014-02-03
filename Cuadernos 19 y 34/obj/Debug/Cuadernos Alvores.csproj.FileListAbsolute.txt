@@ -1,0 +1,12 @@
+E:\Programas\Windows\Cuadernos Alvores\Cuadernos Alvores\bin\Debug\Cuadernos Alvores.exe.config
+E:\Programas\Windows\Cuadernos Alvores\Cuadernos Alvores\bin\Debug\Cuadernos Alvores.exe
+E:\Programas\Windows\Cuadernos Alvores\Cuadernos Alvores\bin\Debug\Cuadernos Alvores.pdb
+E:\Programas\Windows\Cuadernos Alvores\Cuadernos Alvores\obj\Debug\Cuadernos Alvores.csprojResolveAssemblyReference.cache
+E:\Programas\Windows\Cuadernos Alvores\Cuadernos Alvores\obj\Debug\Cuadernos_Alvores.Form1.resources
+E:\Programas\Windows\Cuadernos Alvores\Cuadernos Alvores\obj\Debug\Cuadernos_Alvores.Properties.Resources.resources
+E:\Programas\Windows\Cuadernos Alvores\Cuadernos Alvores\obj\Debug\Cuadernos Alvores.csproj.GenerateResource.Cache
+E:\Programas\Windows\Cuadernos Alvores\Cuadernos Alvores\obj\Debug\Cuadernos Alvores.exe
+E:\Programas\Windows\Cuadernos Alvores\Cuadernos Alvores\obj\Debug\Cuadernos Alvores.pdb
+E:\Programas\Windows\Cuadernos Alvores\Cuadernos Alvores\bin\Debug\MySql.Data.dll
+E:\Programas\Windows\Cuadernos Alvores\Cuadernos Alvores\bin\Debug\MySql.Data.Entity.dll
+E:\Programas\Windows\Cuadernos Alvores\Cuadernos Alvores\bin\Debug\MySql.Web.dll
